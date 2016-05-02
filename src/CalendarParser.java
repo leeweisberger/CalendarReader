@@ -58,6 +58,8 @@ public class CalendarParser {
 		String[] words = firstLine.split(" ");
 		for(String word : words){
 			word=word.trim();
+			word = word.replaceAll("O", "0");
+			word = word.replaceAll("I", "1");
 			if(isNumeric(word))
 				return Integer.parseInt(word);
 		}
