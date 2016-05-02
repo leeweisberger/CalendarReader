@@ -33,7 +33,7 @@ public class CalendarParser {
 			
 			String location="";
 			//if we found a location ')', store the location and then delete it from the string
-			if(rest.indexOf(")")!=-1){
+			if(rest.indexOf(")")!=-1 && rest.indexOf("(")!=-1){
 				location = rest.substring(rest.indexOf("(")+1, rest.indexOf(")"));
 				rest = rest.delete(rest.indexOf("("), rest.indexOf(")")+1);
 			}

@@ -5,22 +5,24 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Random;
-
-import net.sourceforge.tess4j.Word;
 
 import org.opencv.core.Mat;
 import org.opencv.core.MatOfPoint;
 import org.opencv.core.Rect;
 
+import net.sourceforge.tess4j.Word;
+
 
 public class CalendarReader {
-	public static final String RESIDENT_CALENDAR="resident_cal.pdf";
+	public static final String MAGNOLIA_CALENDAR="resident_cal.pdf";
 
 	public static void main(String[] args) throws IOException {
 		List<CalendarEntry> entryList = new ArrayList<>();
+		Map<String, Integer> propertyMap = PropertyFileReader.getProperties();
 		//convert pdf to buffered image
-		BufferedImage[] bis = PDFConverter.PDFToBufferedImage(RESIDENT_CALENDAR);
+		BufferedImage[] bis = PDFConverter.PDFToBufferedImage(MAGNOLIA_CALENDAR);
 		for(BufferedImage bi : bis){
 			//create a mat and process it
 			Mat copy = ImageProcessingUtils.createMat(bi);
@@ -29,7 +31,7 @@ public class CalendarReader {
 			List<MatOfPoint> contours = RectangleBounder.getContours(m);
 //			RectangleBounder.drawContours(m, contours);
 			//bound contours in rectangles
-			List<Rect> rectangles = RectangleBounder.getRectangles(contours,RectangleBounder.RECT_VERT_DIV_HORIZ, RectangleBounder.CONTOUR_PERIM_THRESH, RectangleBounder.MIN_RECT_WIDTH, RectangleBounder.MIN_RECT_HEIGHT);
+			List<Rect> rectangles = RectangleBounder.getRectangles(contours,propertyMap.get(PropertyFileReader.WIDTH_DIV_HEIGHT), propertyMap.get(PropertyFileReader.WIDTH_DIV_HEIGHT), propertyMap.get(PropertyFileReader.WIDTH), propertyMap.get(PropertyFileReader.HEIGHT));
 			RectangleBounder.drawRectangles(m, rectangles);
 			
 			System.out.println("Num Rectangles: " + rectangles.size());
