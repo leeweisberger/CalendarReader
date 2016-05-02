@@ -1,0 +1,255 @@
+day: 13 time: 9:30 event: Baptist Church location: CB
+day: 13 time: 9:30 event: Worship Service location: MIWC
+day: 13 time: 2 event: Mary Kay Cosmetics Sale location: IL/LR
+day: 13 time: 2 event: Tea Party Social location: V81
+day: 13 time: 4:30 event: Sunday Stretch location: VSi
+day: 13 time: 7 event: Sunday Night Movie location: MGTV
+day: 12 time: 9:30 event: Aqua Tone II location: P
+day: 12 time: 10 event: 8it Fit Video location: MGTV
+day: 12 time: 11 event: Hangman location: V81
+day: 12 time: 1 event: No Sew Blankets location: V81
+day: 12 time: 2 event: Exercise Video location: MGTV
+day: 12 time: 2:30 event: Bingo location: VS/DR
+day: 12 time: 3:30 event: Rosary Prayer location: MANC
+day: 12 time: 4 event: Eucharist Service location: MANC
+day: 12 time: 4 event: Music with Alex location: V81
+day: 12 time: 7 event: 8aturday Movie location: MGTV
+day: 12 time: 7 event: Progressive Rummy location: IL/CA
+day: 11 time: Q event: Banks location: B
+day: 11 time: 9:15 event: Aqua Tone location: P
+day: 11 time: 10 event: Harris Teeter location: B
+day: 11 time: 10:15 event: Aqua Tone location: P
+day: 11 time: 11 event: Friday Finishing Lines location: V81
+day: 11 time: 3:30 event: VIP Meeting location: lib
+day: 11 time: 3:30 event: VS Social location: V81
+day: 11 time: 4 event: Scrabble location: V82
+day: 11 time: 7 event: Game Night location: IL/CA
+day: 10 time: 9:30 event: AquaTone II location: P
+day: 10 time: 10:30 event: Blood Pressure Check Interim Healthcare location: IL/LR
+day: 10 time: 11 event: Flex & Balance location: FC Hall
+day: 10 time: 11 event: Hand Exercise location: V81
+day: 10 time: 11 event: Book Club location: IL/CA
+day: 10 time: 11 event: Bingo location: IL/CR
+day: 10 time: 1:15 event: Tai Chi will not be held  2:30-Yoga location: FC
+day: 10 time: 3 event: Residenl Association Board Meeting location: Conf
+day: 10 time: 3:30 event: Sing Fit location: V82
+day: 10 time: 4:00 event: Resident Social location: Pub
+day: 10 time: 4:30 event: Categories location: V81
+day: 10 time: 7 event: Bible Study location: IL/CA
+day: 9 time: 8 event: 9:30- Complimentary Hot Breakfast location: IL/DR
+day: 9 time: 9:15 event: Aqua Tone location: P
+day: 9 time: 9:15 event: Floral Arranging location: IL/CR
+day: 9 time: 10:15 event: Aqua Tone location: P
+day: 9 time: 10:30 event: Needlin’ Around location: IL/CA
+day: 9 time: 10:45 event: Raising Arrows location: V81
+day: 9 time: 11 event: Wellness Wednesday: w/ Interim Healthcare location: M/WC
+day: 9 time: 11 event: Bouquet Beauties location: V81
+day: 9 time: 1 event: “Try This Instead of Thai” location: IL/CR
+day: 9 time: 1:00 event: Dollar Tree/Office Depot/Tuesday Morning location: B
+day: 9 time: 2 event: Hand Exercise location: FC
+day: 9 time: ::30 event: Filter Sitters location: IL/CR
+day: 9 time: 3 event: TED Talks location: MANC
+day: 9 time: 4 event: Medilalion & Prayer location: M/WC
+day: 8 time: 10 event: Sitting Fit Yoga location: V82
+day: 8 time: 10 event: Kroger & UPS location: B
+day: 8 time: 10 event: Mass Service location: MANC
+day: 8 time: 11 event: Flex & Balance location: FC Hall
+day: 8 time: 2 event: Dining Services Committee Meeting location: lL/PDR
+day: 8 time: 2 event: Heallhy Cooking location: V82
+day: 8 time: ::30 event: Choral Group location: M/WC
+day: 8 time: 4:00 event: “Meet Your New Neighbor Social" location: IL/CR
+day: 8 time: 4:15 event: Tuesday Trivia location: V81
+day: 8 time: 7 event: Bridge location: IL/CR
+day: 8 time: 7 event: Skip-Bo location: IL/CA
+day: 7 time: 9:15 event: Aqua Tone location: P
+day: 7 time: 10 event: Trader Joe’s location: B
+day: 7 time: 10:15 event: Aqua Tone location: P
+day: 7 time: 10:30 event: Music with Martine location: V82
+day: 7 time: 1 event: 3 Drive for$5 location: Car
+day: 7 time: 2 event: Daytime Bridge location: IL/CA
+day: 7 time: 2 event: Hand Exercise location: FC
+day: 7 time: 2 event: Button Craft location: V82
+day: 7 time: 2:30 event: Fitter Sitters location: IL/CR
+day: 7 time: 3:15 event: Wellness Program Committee location: Conf
+day: 7 time: 3:30 event: Mexican Dominoes location: V82
+day: 7 time: 4 event: Pet Visits with “Dori" & Betty location: LR’s
+day: 7 time: 4 event: Resident Social location: Pub
+day: 7 time: 4:15 event: Movie Trivia location: V81
+day: 7 time: 7 event: Game Night location: IL/CA
+day: 7 time: 7 event: Music Memories location: IL/LR
+day: -1 time: March 21st event: 26th For More Information See the ﬂyers in the community location: 
+day: 6 time: 9:30 event: Baptist Church location: CB
+day: 6 time: 9:30 event: Worship Service location: MIWC
+day: 6 time: 2 event: Spelling Bee location: V82
+day: 6 time: 4:30 event: Sunday Stretch location: V81
+day: 6 time: 7 event: Sunday Night Movie location: MGTV
+day: 2 time: 8 event: 9:30- Complimentary Hot Breakfast location: IL/DR
+day: 2 time: 9:15 event: Aqua Tone location: P
+day: 2 time: 9:15 event: Floral Arranging location: IL/CR
+day: 2 time: 10 event: Massage by Appt location: VSWP
+day: 2 time: 10:15 event: Aqua Tone location: P
+day: 2 time: 10:30 event: Needlin’ Around location: IL/CA
+day: 2 time: 11:00 event: Bouquet Beauties location: V81
+day: 2 time: 11 event: Wellness Wednesday; “Beneﬁts of Water Exercise” By Sarah Mullis location: MNVC
+day: 2 time: 11:45 event: V8 Lunch at Relish location: B
+day: 2 time: 2 event: Hand Exercise location: FC
+day: 2 time: ::30 event: Fitter Sitters location: IL/CR
+day: 2 time: 4 event: Meditation & Prayer location: MIWC
+day: 1 time: 10 event: Sitting Fit Yoga location: V82
+day: 1 time: 10 event: Kroger & UPS location: B
+day: 1 time: 11 event: Flex & Balance location: FC Hall
+day: 1 time: 11 event: Sherron’s Chat: “What’s Up with Wellness" location: IL/CR
+day: 1 time: 1:30 event: Trivia with Nora location: IL/CR
+day: 1 time: 2 event: Healthy Cooking location: V82
+day: 1 time: 2:30 event: Choral Group location: M/WC
+day: 1 time: 3:45 event: Calm Coloring location: V82
+day: 1 time: 4:15 event: Tuesday Trivia location: VS1
+day: 1 time: 7 event: Bridge location: IL/CR
+day: 1 time: 7 event: Skip-Bo location: IL/CA
+day: 5 time: 9:30 event: Aqua Tone II location: P
+day: 5 time: 10 event: Sit Fit Video location: MGTV
+day: 5 time: 11 event: Morning Stretch location: V81
+day: 5 time: 2 event: Exercise Video location: MGTV
+day: 5 time: 2:30 event: Bingo location: VS/DR
+day: 5 time: 4 event: Eucharist Service location: M/WC
+day: 5 time: 7 event: Saturday Night Movie location: MGTV
+day: 5 time: 7 event: Progressive Rummy location: IL/CA
+day: 4 time: 9 event: Banks location: B
+day: 4 time: 9:15 event: Aqua Tone location: P
+day: 4 time: 10:15 event: Aqua Tone location: P
+day: 4 time: 11 event: Buzzword location: V81
+day: 4 time: 11 event: NC Symphony  “Friday Favorite" Concert location: 3
+day: 4 time: 2 event: Food Lion location: B
+day: 4 time: 3:30 event: VS Social location: V81
+day: 4 time: 4 event: Scrabble location: V32
+day: 4 time: 7 event: Game Night location: IL/CA
+day: 3 time: 9:30 event: AquaTone II location: P
+day: 3 time: 10:30 event: Blood Pressure Check Interim Healthcare location: IL/CA
+day: 3 time: 11 event: Flex & Balance location: FC Hall
+day: 3 time: 11 event: Hand Exercise location: V31
+day: 3 time: 11 event: Bingo location: IL/CR
+day: 3 time: 1:15 event: Tai Chi location: FC
+day: 3 time: 2 event: Voter Information Follow-Up location: M/WC
+day: 3 time: 2:30 event: Yoga location: FC
+day: 3 time: 3:30 event: Sing Fit location: V82
+day: 3 time: 4:30 event: Headbanz location: V81
+day: 3 time: 7 event: Bible Study location: IL/CA
+day: 30 time: 8 event: 9230- Complimentary  Hot Breakfast location: IL/DR
+day: 30 time: 9:15 event: Aqua Tone location: P
+day: 30 time: 9:15 event: Floral Arranging location: IL/CR
+day: 30 time: 10:15 event: Aqua Tone location: P
+day: 30 time: 10:30 event: Needlin’ Around location: IL/CA
+day: 30 time: 11 event: Wellness Wednesday: Question and Answer with A Doctor of Audiology location: M/WC
+day: 30 time: 11:00 event: Bouquet Beauties location: V81
+day: 30 time: 1:00 event: V8 Ride Around location: B
+day: 30 time: 2 event: Hand Exercise location: FC
+day: 30 time: 2:30 event: Fitter Sitters location: IL/CR
+day: 30 time: 3:30 event: Bowling location: IL/CR
+day: 30 time: 4 event: Meditation and Prayer  Will Not Be Held Today location: 
+day: 29 time: 10 event: 8itting Fit Yoga location: V82
+day: 29 time: 10 event: Kroger & UPS location: B
+day: 29 time: 11 event: Name That Tune location: V81
+day: 29 time: 11 event: Flex & Balance location: FC Hall
+day: 29 time: 1:30 event: Trivia with Nora location: IL/CR
+day: 29 time: 2 event: Healthy Cooking location: V82
+day: 29 time: ::30 event: Choral Group location: MIWC
+day: 29 time: 3 event: 4- Stand Strong Fitness Assessments location: FC
+day: 29 time: 4:15 event: Tuesday Trivia location: V81
+day: 29 time: 7 event: Bridge location: IL/CR
+day: 29 time: 7 event: Skip-Bo location: IL/CA
+day: 28 time: 9:15 event: Aqua Tone location: P
+day: 28 time: 10 event: Walmart location: B
+day: 28 time: 10:15 event: Aqua Tone location: P
+day: 28 time: 10:30 event: Music with Martine location: V82
+day: 28 time: 1 event: 3-Drive for $5 location: Car
+day: 28 time: 2 event: Hand Exercise location: FC
+day: 28 time: 2 event: Daytime Bridge location: IL/CA
+day: 28 time: ZOO event: Spring Card Making location: V82
+day: 28 time: 2:30 event: Fitter Sitters location: IL/CR
+day: 28 time: 3:30 event: Mexican Dominoes location: V82
+day: 28 time: 4 event: Resident Social location: Pub
+day: 28 time: 4 event: Pet visits with “Dori" and Betty location: LR's
+day: 28 time: 4:15 event: Movie Trivia location: V81
+day: 28 time: 6:30 event: Pet visits  with Van & “Coco" location: LRs
+day: 26 time: 9:30 event: Aqua Tone II location: P
+day: 26 time: 10 event: Sit Fit Video location: MGTV
+day: 26 time: 11 event: Easter Puzzles location: V81
+day: 26 time: 2:30 event: Bingo location: VS/DR
+day: 26 time: 2 event: Exercise Video location: MGTV
+day: 26 time: 4 event: Eucharist Service location: M/WC4- Music with Alex (V81
+day: 26 time: 7 event: Saturday Movie location: MGTV
+day: 26 time: 7 event: Progressive Rummy location: IL/CA
+day: 20 time: 9:30 event: Baptist Church location: CB
+day: 20 time: 9:30 event: Worship Service location: M/WC
+day: 20 time: 2 event: Spring Social location: V81
+day: 20 time: 4:30 event: Sunday Spelling Bee location: V81
+day: 20 time: 7 event: Sunday Night Movie location: MGTV
+day: 19 time: 9:30 event: Aqua Tone II location: P
+day: 19 time: 10 event: Sit Fit Video location: MGTV
+day: 19 time: 11 event: Saturday Sing Along location: V81
+day: 19 time: 12:30 event: Movie Outing location: B
+day: 19 time: 2 event: Exercise Video location: MGTV
+day: 19 time: 2:30 event: Bingo location: VSDR
+day: 19 time: 4 event: Eucharist Service location: M/WC7- Saturday Movie (MGTV
+day: 19 time: 7 event: Progressive Rummy location: IL/CA
+day: 18 time: 9 event: Banks location: B
+day: 18 time: 9:15 event: Aqua Tone location: P
+day: 18 time: 10 event: Food Lion location: B
+day: 18 time: 11 event: Word Puzzles location: V81
+day: 18 time: 2 event: Smarty Pants  with Tom location: V81
+day: 18 time: 3:30 event: VS Social location: V81
+day: 18 time: 4 event: Shabbat Service location: M/WC
+day: 18 time: 4 event: Scrabble location: V82
+day: 18 time: 7 event: Game Night location: IL/CA
+day: 17 time: 515 event: giriek \‘S ’89  *9-12- Podiatry Visit  9:30- Aqua Tone II location: P
+day: 17 time: 10:30 event: Garden Club location: Conf
+day: 17 time: 10:30 event: Blood Pressure Check Interim Healthcare location: IL/CA
+day: 17 time: 11 event: Limericks location: V81
+day: 17 time: 11 event: Bingo location: IL/CR
+day: 17 time: 11 event: Flex & Balance location: FC Hall
+day: 17 time: 1:15 event: Tai Chi location: FC
+day: 17 time: 2:00 event: St. Patrick’s Day Puzzles location: V81
+day: 17 time: 2:15 event: Yoga Will Not Be Held  3- Resident Board Meeting location: Conf.
+day: 17 time: 4 event: “Luck of The Irish“ Social location: Pub
+day: 17 time: 7 event: Bible Study location: IL/CA
+day: 16 time: 8 event: 9230- Complimentary Hot Breakfast location: IL/DR
+day: 16 time: 9:15 event: Aqua Tone location: P
+day: 16 time: 9:15 event: Floral Arranging location: IL/CR
+day: 16 time: 10 event: Massage by Appt. location: VSWP
+day: 16 time: 10:30 event: Needlin' Around location: IL/CA
+day: 16 time: 11 event: Wellness Wednesday: “Food Labels" location: M/WC
+day: 16 time: 11 event: Bouquet Beauties location: V81
+day: 16 time: 1:30 event: Jewelry Making location: V82
+day: 16 time: 2 event: Kitchen Tour location: IL/DR
+day: 16 time: 2 event: Hand Exercise location: FC
+day: 16 time: 3 event: Everybody Has A Story location: Conf
+day: 16 time: 3 event: Move 2 Music with Lisa location: V82
+day: 16 time: 4 event: Meditation & Prayer location: MIWC
+day: 15 time: 8 event: Voting Shuttle location: Car
+day: 15 time: 10 event: Sitting Fit Yoga location: V82
+day: 15 time: 10 event: Kroger & UPS location: B
+day: 15 time: 11 event: Catchphrase location: V81
+day: 15 time: 11 event: Flex & Balance location: FC Hall
+day: 15 time: 11:30 event: Harmony Foods Talks  “Organic & Natural Foods" location: MIWC
+day: 15 time: 1 event: Voting Shuttle location: B
+day: 15 time: 1:30 event: Trivia with Nora location: IL/CR
+day: 15 time: 2 event: Healthy Cooking location: V82
+day: 15 time: 2:30 event: Choral Group Concert “Songs on the Sunny Side“ location: MIWC
+day: 15 time: 3:45 event: Calm Coloring location: IL/CA
+day: 15 time: 4:15 event: Tuesday Trivia location: V81
+day: 15 time: 7 event: Bridge location: IL/CR
+day: 15 time: 7 event: Skip-Bo location: IL/CA
+day: 14 time: 9:15 event: Aqua Tone location: P
+day: 14 time: 10 event: Walmart location: B
+day: 14 time: 10:15 event: Aqua Tone location: P
+day: 14 time: 10:30 event: Music with Martine location: V82
+day: 14 time: 2 event: Daytime Bridge location: IL/CA
+day: 14 time: 2 event: Movie and Chip & Dip  Treat location: V82
+day: 14 time: 2 event: Hand Exercise location: FC
+day: 14 time: ::30 event: Fitter Sitters location: IL/CR
+day: 14 time: 3:30 event: Mexican Dominoes location: V82
+day: 14 time: 4 event: Resident Social location: Pub
+day: 14 time: 4:15 event: Guesstimation location: V81
+day: 14 time: 6:30 event: Pet visits with Van & “Coco" location: LRs
+day: 14 time: 7 event: Game Night location: IL/CA
+day: 14 time: 7 event: Music Memories location: IL/LR
