@@ -13,7 +13,7 @@ import org.opencv.imgproc.Imgproc;
 
 public class RectangleBounder {
 	private static final int SAME_RECTANGLE_THRESH = 40;
-	private static final int MAX_HEIGHT = 2000;
+	private static final int MAX_HEIGHT = 1500;
 
 
 	public static List<Rect> getNumberAreaRectangles(List<Rect> rectangles) {
@@ -27,7 +27,7 @@ public class RectangleBounder {
 
 	//put a little bit of buffer on the rectangle to ensure that text does not get cut off
 	private static void bufferRectangle(Rect r){
-		r.set(new double []{r.x-1,r.y-1,r.width+1,r.height+1});
+		r.set(new double []{r.x-1,r.y-90,r.width+1,r.height+90});
 	}
 
 	public static List<Rect> getRectangles(List<MatOfPoint> contours, double widthDivHeight, int contourAreaThresh, int minWidth, int minHeight) {
